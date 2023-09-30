@@ -9,7 +9,6 @@
 - :books: Currently studying JavaScript, developing projects for my own practicing purposes, learning more about API's.
 - :eye_speech_bubble: Ongoig Courses and Bootcamps: Java + Angular (by Santander), Programming Logics (by Havard), Project Managment (by Google)
 - :man_technologist: I’m looking to collaborate or be applied for a **software developer** role and trail my studies as well.
-- :mailbox: E-mail me: <devrenjbr@gmail.com>
 ---
 ## My current programming skills:
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,javascript,react,nodejs,java,cpp,python,git,md,mysql&theme=dark)](https://skillicons.dev)
