@@ -14,7 +14,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/devrenj/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55px" height="55px"></a>
-<a href="https://renj.dev.br/"><img src="https://cdn-icons-png.flaticon.com/64/10255/10255104.png" width="55px" height="55px"></a>
+<a href="https://renj.dev.br/"><img src="site.png" width="55px" height="55px"></a>
 <a href="mailto:devrenjbr@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/64/831/831306.png" width="55px" height="55px"></a>
 </div>
 
