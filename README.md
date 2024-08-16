@@ -10,11 +10,10 @@
 
 ## Networking
 
-<div align="center">
-<a href="https://www.linkedin.com/in/devrenj/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55px" height="55px"></a>
-<a href="https://renj.dev.br/"><img src="site.png" width="55px" height="55px"></a>
-<a href="mailto:devrenjbr@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/64/831/831306.png" width="55px" height="55px"></a>
-</div>
+<a href="https://chat.whatsapp.com/KBfxjiC2jbnAmbJ05Bgqvh"><img src="whatsapp.png" width="55px"></a>
+<a href="https://www.linkedin.com/in/devrenj/"><img src="LinkedIN.png" padding="2px" width="55px"></a>
+<a href="https://renj.dev.br/"><img src="site.png" width="55px"></a>
+<a href="mailto:devrenjbr@gmail.com"> <img src="email.png" width="55px"></a> 
 
 ## About me
 ### Proudly from Minas Gerais, Brazil <img src="https://i.redd.it/45jp2fwxiz821.png"  width="35px" height="24px" /> <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg" width="35px" height="24px" />
