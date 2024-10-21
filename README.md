@@ -36,7 +36,7 @@
 
 ## My current programming skills
 <div align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,html,css,javascript,react,nodejs,npm,git,md,postgresql&bnsp;theme=dark)"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,html,css,javascript,bootstrap,nodejs,nextjs,react,npm,git,md,postgresql&bnsp;theme=dark)"></a>
 </div>
 
 ## Recently added skills
