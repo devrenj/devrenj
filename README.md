@@ -61,6 +61,8 @@
 </a>
 </div>
 
+<br/>
+
 ## 💻 Programming Languages
 <div align="left">
 <a href="https://skillicons.dev">
@@ -76,6 +78,8 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,spring,nodejs,bootstrap,scss,flutter,postgresql&theme=dark">
 </a>
 </div>
+
+<br/>
 
 ## 🛠️ Productivity & DevTools
 <div align="left">
