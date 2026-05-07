@@ -15,12 +15,16 @@
 <a href="https://devrenj.github.io/"><img src="site.png" width="55px"></a>
 <a href="mailto:devrenjbr@gmail.com"> <img src="email.png" width="55px"></a> 
 
+<br/>
+
 ## 👤 About me
 ### Made in Brazil, MG <i>UAI!</i> <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg" width="35px" height="24px" /> <img src="https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/naf/nucleos/arquivos-e-imagens/minas-gerais.png"  width="35px" height="24px" /> 
-- :eyes: Very interested to learn about programming, since I've decided this is exactly what I was looking for my job carrer and lifestyle. Love to use my creativity for system development, watch and learn about internet and computing histories and read technical reports.
-- :books: Currently focusing my studies into Cibersecurity and CTFs.
-- :eye_speech_bubble: Ongoing Courses/Bootcamps: Cibersecurity / Networks / Ethical Hacking (CISCO, Google), Back-end with Python (DIO), Power B.I (EBAC)
+- :eyes: Very interested to learn about programming subjects, since I've decided this is exactly what I was looking for my job carrer and lifestyle. I'd love to use my creativity for system development, watch and learn about internet and computing histories and read technical reports.
+- :books: Currently focusing my studies into Cibersecurity, PenTesting and CTFs.
+- :eye_speech_bubble: Ongoing learning courses: Cibersecurity / Networks / Ethical Hacking (CISCO, Google), Back-end with Python (DIO), Power B.I (EBAC)
 - :man_technologist: I’m looking to collaborate or be applied for a **cibersecurity junior analist** role.
+
+<br/>
 
 ## 🏅 Credly Badges
 
@@ -34,6 +38,8 @@
 
 </div>
 
+<br/>
+
 ## 🎓 Certificated Bootcamps
 
 <div align="center">
@@ -45,6 +51,8 @@
 |2023|2023|2023|
 
 </div>
+
+<br/>
 
 ## 🛡️ Cybersecurity & Infrastructure
 <div align="left">
@@ -59,6 +67,8 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,golang,js,ts,html,css&theme=dark">
 </a>
 </div>
+
+<br/>
 
 ## 🚀 Frameworks & Web Development
 <div align="left">
