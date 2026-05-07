@@ -12,7 +12,7 @@
 
 <a href="https://chat.whatsapp.com/KBfxjiC2jbnAmbJ05Bgqvh"><img src="whatsapp.png" width="55px"></a>
 <a href="https://www.linkedin.com/in/devrenj/"><img src="LinkedIN.png" padding="2px" width="55px"></a>
-<a href="https://renj.dev.br/"><img src="site.png" width="55px"></a>
+<a href="https://devrenj.github.io/"><img src="site.png" width="55px"></a>
 <a href="mailto:devrenjbr@gmail.com"> <img src="email.png" width="55px"></a> 
 
 ## 👤 About me
