@@ -16,7 +16,7 @@
 <a href="mailto:devrenjbr@gmail.com"> <img src="email.png" width="55px"></a> 
 
 ## 👤 About me
-### Made in Brazil, MG <i>UAI</i>! <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg" width="35px" height="24px" /> <img src="https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/naf/nucleos/arquivos-e-imagens/minas-gerais.png"  width="35px" height="24px" /> 
+### Made in Brazil, MG <i>UAI!</i> <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg" width="35px" height="24px" /> <img src="https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/naf/nucleos/arquivos-e-imagens/minas-gerais.png"  width="35px" height="24px" /> 
 - :eyes: Very interested to learn about programming, since I've decided this is exactly what I was looking for my job carrer and lifestyle. Love to use my creativity for system development, watch and learn about internet and computing histories and read technical reports.
 - :books: Currently focusing my studies into Cibersecurity and CTFs.
 - :eye_speech_bubble: Ongoing Courses/Bootcamps: Cibersecurity / Networks / Ethical Hacking (CISCO, Google), Back-end with Python (DIO), Power B.I (EBAC)
