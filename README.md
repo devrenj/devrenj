@@ -22,7 +22,7 @@
 ## 👤 About me
 ### Made in Brazil, MG <i>UAI!</i> <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg" width="35px" height="24px" /> <img src="https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/cidadania-fiscal/naf/nucleos/arquivos-e-imagens/minas-gerais.png"  width="35px" height="24px" /> 
 - :eyes: Very interested to learn about programming subjects, since I've decided this is exactly what I was looking for my job carrer and lifestyle. I'd love to use my creativity for system development, watch and learn about internet and computing histories and read technical reports.
-- :books: Currently focusing my studies into Cibersecurity, PenTesting and CTFs.
+- :books: Currently focusing my studies into Cibersecurity, PenTesting, CTFs and TryHackMe.
 - :eye_speech_bubble: Ongoing learning courses: Cibersecurity (Google) / Network Technician (CISCO), Cybersecurity with GenAI (DIO), Power B.I (EBAC)
 - :man_technologist: I’m looking to collaborate or be applied for a **cibersecurity junior analist** role.
 
